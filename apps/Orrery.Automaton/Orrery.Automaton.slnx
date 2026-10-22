@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Orrery.Automaton.Core/Orrery.Automaton.Core.csproj" />
+    <Project Path="src/Orrery.Automaton.Infrastructure/Orrery.Automaton.Infrastructure.csproj" />
+    <Project Path="src/Orrery.Automaton.Worker/Orrery.Automaton.Worker.csproj" />
+  </Folder>
+</Solution>

@@ -1,4 +1,4 @@
-namespace Orrery.Automaton;
+namespace Orrery.Automaton.Worker;
 
 public class Worker(ILogger<Worker> logger) : BackgroundService
 {

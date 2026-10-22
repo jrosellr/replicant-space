@@ -4,7 +4,7 @@
     <TargetFramework>net10.0</TargetFramework>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
-    <UserSecretsId>dotnet-Orrery.Automaton-cbeed00f-0a00-4b14-942d-b0998819f0a7</UserSecretsId>
+    <UserSecretsId>dotnet-Orrery.Automaton.Worker-e70308ec-26e2-4488-bd30-ea048e14293b</UserSecretsId>
   </PropertyGroup>
 
   <ItemGroup>
